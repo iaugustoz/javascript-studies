@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Descrição em desenvolvimento.
+Este repositório foi criado para registrar o meu aprendizado na linguagem de programação JavaScript.
 
 ## Status do projeto
 
@@ -13,6 +13,7 @@ Projeto em andamento.
 ### Tecnologias
 
 - JavaScript (vE6+).
+- HTML5.
 
 ## Instalando
 
